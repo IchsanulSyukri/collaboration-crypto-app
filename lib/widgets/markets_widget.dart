@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:collaboration_crypto_app/components/markets.dart';
+import 'package:collaboration_crypto_app/components/market.dart';
 
 class MarketsWidgets extends StatelessWidget {
   const MarketsWidgets({super.key});
