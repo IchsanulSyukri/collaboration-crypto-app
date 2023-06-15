@@ -34,10 +34,10 @@ class _menuState extends State<menu> {
         child: IndexedStack(
           index: _SelectedTab.values.indexOf(_selectedTab),
           children: const [
-            // HomePage(),
-            // ExhchangePage(),
-            // TimeCircles(),
-            // Profile(),
+            HomePage(),
+            ExhchangePage(),
+            TimeCircles(),
+            Profile(),
           ],
         ),
       ),
